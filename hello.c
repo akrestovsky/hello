@@ -5,6 +5,6 @@ Date: 2020/01/16
 #include <stdio.h>
 
 int main (void) {
-	printf("Anastasiya Computer Science \n");
+	printf("Anastasiya\nComputer Science \n");
 	return 0;
 }
