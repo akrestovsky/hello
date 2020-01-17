@@ -6,5 +6,7 @@ Date: 2020/01/16
 
 int main (void) {
 	printf("Anastasiya\nComputer Science \n");
+	printf ("Lixin Cao\n")
+	printf ("Mathematics\n")
 	return 0;
 }
